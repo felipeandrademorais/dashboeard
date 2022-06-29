@@ -4,7 +4,7 @@
 ### Step by step
 Clone this Repository
 ```sh
-git clone https://github.com/especializati/quick-start-laravel-8-and-adminlte4.git my-project
+git clone git@github.com:felipeandrademorais/dashboeard.git my-project
 ```
 
 Create the .env file
